@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "text": "NVIDIA might be planning to increase the production of its GeForce RTX 30 series GPUs by cutting off the supply of its older GPUs. The report comes from ITHome who state that tech insiders in the Asia Pacific region are expecting NVIDIA to cut the supply of older GPUs in half to focus on its brand new chips. Source: https://wccftech.com/nvidia-to-cut-rtx-2060-supply-this-month-will-increase-production-capacity-of-geforce-rtx-30-series-gpus/",
+      "author": "Anna",
+      "title": "NVIDIA To Cut RTX 2060 Supply This Month, Will Increase Production Capacity of GeForce RTX 30 Series GPUs",
+      "id": 1
+    },
+    {
+      "text": "The AMD Advantage design offers great gaming performance, premium display technology, and better workload experiences than standard laptops. Technologies such as Smartshift and Smart Access are a key part of these laptops and you will also find specs that include fast NVMe drives and increased battery timings. The bare minimum of an Advantage laptop is to offer 100+ FPS at 1080p on a 144Hz+ refresh rate panel.\n\n Source: https://wccftech.com/amd-radeon-rx-6600m-navi-23-gpu-featured-inside-hp-omen-16-listed-best-buy-for-1480-us/",
+      "author": "Armin",
+      "title": "AMD Radeon RX 6600M & Ryzen 7 5800H Powered HP Omen 16 Laptop Listed at Best Buy For $1479.99 US",
+      "id": 2
+    },
+    {
+      "text": "The Tesla Model S infotainment system is powered by AMD's Navi 23 GPU which features 2048 stream processors and 8GB of GDDR6 memory. The memory interface features a 128-bit bus with a memory speed of 14 Gbps and a total bandwidth of 224 GB/s. These specifications haven't been confirmed by either Tesla or AMD, but are likely correct. However, Tesla did confirm that the system has 10 TFLOPs of computing power. The CPU in the infotainment system has yet to be confirmed.\n\nSource: https://wccftech.com/tesla-model-s-is-capable-of-playing-cyberpunk-2077-with-ps5-level-performance-as-demonstrated-by-elon-musk/",
+      "author": "Jackson",
+      "title": "Tesla Model S Is Capable Of Playing Cyberpunk 2077 With PS5-Level Performance As Demonstrated By Elon Musk",
+      "id": 3
+    },
+    {
+      "text": "The difference between the Intel NUC 11 Extreme and a standard gaming PC is nominal. The NUC comes within a small 8L chassis which means it has lower cooling potential than say a gaming PC that's been configured in an M-ATX or standard ATX chassis. The extra heat can definitely affect the performance of the hardware and throttle it down to lower clocks. Furthermore, the components are all tightly cramped and you can't expect the top-of-the-line CPU cooling solutions as you'd get on a standard gaming PC. \nSource: https://wccftech.com/intel-nuc-11-extreme-beast-canyon-with-core-i9-11900kb-cpu-tested-just-as-fast-as-any-desktop-gaming-pc/",
+      "author": "Anna",
+      "title": "Intel Core i9-11900KB CPU Powered NUC 11 Extreme 'Beast Canyon' PC Tested, As Fast As A Standard Gaming PC",
+      "id": 4
+    },
+    {
+      "text": "MAINGEAR has announced that various prebuilt PCs will feature NVIDIA's newest graphics cards, the RTX 3070 Ti and the RTX 3080 Ti. Both of these graphics cards are currently available for anyone looking to configure their next gaming PC through MAINGEAR, and this will allow gamers to experience the added power of NVIDIA's third-generation GPUs.\nSource: https://wccftech.com/maingear-adds-the-rtx-3080-ti-rtx-3070-ti-graphics-cards-to-various-desktops/",
+      "author": "Armin",
+      "title": "MAINGEAR Adds the RTX 3080 Ti & RTX 3070 Ti Graphics Cards to Various Desktops",
+      "id": 5
+    }
+  ],
+  "meetings": [
+    {
+      "firstName": "Krzysztof",
+      "lastName": "Kolawski",
+      "email": "example1@gmail.com",
+      "helpYouOutMessage": "Hello! Could you tell me how can i earn money?",
+      "phoneNumber": "666666666",
+      "id": 1
+    }
+  ]
+}
